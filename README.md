@@ -5,7 +5,6 @@ This Python project integrates core libraries such as `os`, `smtplib`, `pynput`,
 The project operates discreetly in the background, culminating in the reception of an email alert that notifies and flags the system for further action.
 
 ![email notification](https://github.com/Chinmey-Jain/Threat-Detection-using-keylogger-and-string-matching/assets/142082906/f0c0067e-8bca-4fc2-8e20-e1845cdfd55f)
-
 Email Notification
 
 Hope it Helps !!!
